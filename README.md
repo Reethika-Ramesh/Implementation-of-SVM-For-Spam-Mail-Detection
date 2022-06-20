@@ -46,24 +46,24 @@ accuracy
 
 ## Output:
 
-Data.head():
+## Data.head():
 
 ![image](https://user-images.githubusercontent.com/98681990/174660497-82d7f30e-c8da-423f-b298-6e3208a42595.png)
 
-Data.info():
+## Data.info():
 
 ![image](https://user-images.githubusercontent.com/98681990/174660571-71df2803-7e89-41d8-93b8-b6862a12eee4.png)
 
-Data.isnull().sum():
+## Data.isnull().sum():
 
 ![image](https://user-images.githubusercontent.com/98681990/174660705-cc2eb579-3bab-4238-957c-6057094fc173.png)
 
-Y_Pred:
+## Y_Pred:
 
 ![image](https://user-images.githubusercontent.com/98681990/174660743-c5f26956-4a00-40c8-8e65-a81f579dec6b.png)
 
 
-Accuracy:
+## Accuracy:
 
 ![image](https://user-images.githubusercontent.com/98681990/174660764-eecc1fce-2712-48c1-a8c8-7a83280e987c.png)
 
